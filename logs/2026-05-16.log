@@ -6,3 +6,52 @@
 2026-05-16 01:43:46,324 - INFO - Read the dataset as dataframe
 2026-05-16 01:43:46,328 - INFO - Train test split initiated
 2026-05-16 01:43:46,337 - INFO - Ingestion of the data is completed
+2026-05-16 02:27:52,910 - INFO - Entered the data ingestion method or component
+2026-05-16 02:27:52,928 - INFO - Read the dataset as dataframe
+2026-05-16 02:27:52,936 - INFO - Train test split initiated
+2026-05-16 02:27:52,951 - INFO - Ingestion of the data is completed
+2026-05-16 02:31:29,905 - INFO - Entered the data ingestion method or component
+2026-05-16 02:31:29,917 - INFO - Read the dataset as dataframe
+2026-05-16 02:31:29,923 - INFO - Train test split initiated
+2026-05-16 02:31:29,938 - INFO - Ingestion of the data is completed
+2026-05-16 02:31:29,986 - INFO - Read train and test data completed
+2026-05-16 02:31:29,986 - INFO - Obtaining preprocessing object
+2026-05-16 02:31:29,986 - INFO - Categorical columns: ['gender', 'race/ethnicity', 'parental level of education', 'lunch', 'test preparation course']
+2026-05-16 02:31:29,986 - INFO - Numerical columns: ['math score', 'reading score', 'writing score']
+2026-05-16 02:31:48,088 - INFO - Entered the data ingestion method or component
+2026-05-16 02:31:48,093 - INFO - Read the dataset as dataframe
+2026-05-16 02:31:48,101 - INFO - Train test split initiated
+2026-05-16 02:31:48,109 - INFO - Ingestion of the data is completed
+2026-05-16 02:31:48,145 - INFO - Read train and test data completed
+2026-05-16 02:31:48,145 - INFO - Obtaining preprocessing object
+2026-05-16 02:31:48,145 - INFO - Categorical columns: ['gender', 'race/ethnicity', 'parental level of education', 'lunch', 'test preparation course']
+2026-05-16 02:31:48,145 - INFO - Numerical columns: ['math score', 'reading score', 'writing score']
+2026-05-16 02:32:17,419 - INFO - Entered the data ingestion method or component
+2026-05-16 02:32:17,438 - INFO - Read the dataset as dataframe
+2026-05-16 02:32:17,446 - INFO - Train test split initiated
+2026-05-16 02:32:17,461 - INFO - Ingestion of the data is completed
+2026-05-16 02:32:17,486 - INFO - Read train and test data completed
+2026-05-16 02:32:17,486 - INFO - Obtaining preprocessing object
+2026-05-16 02:32:17,486 - INFO - Categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+2026-05-16 02:32:17,486 - INFO - Numerical columns: ['math_score', 'reading_score', 'writing_score']
+2026-05-16 02:32:17,490 - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2026-05-16 02:32:39,480 - INFO - Entered the data ingestion method or component
+2026-05-16 02:32:39,487 - INFO - Read the dataset as dataframe
+2026-05-16 02:32:39,493 - INFO - Train test split initiated
+2026-05-16 02:32:39,506 - INFO - Ingestion of the data is completed
+2026-05-16 02:32:39,531 - INFO - Read train and test data completed
+2026-05-16 02:32:39,531 - INFO - Obtaining preprocessing object
+2026-05-16 02:32:39,531 - INFO - Categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+2026-05-16 02:32:39,531 - INFO - Numerical columns: ['reading_score', 'writing_score']
+2026-05-16 02:32:39,536 - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2026-05-16 02:32:39,563 - INFO - Saved preprocessing object.
+2026-05-16 02:33:11,631 - INFO - Entered the data ingestion method or component
+2026-05-16 02:33:11,636 - INFO - Read the dataset as dataframe
+2026-05-16 02:33:11,640 - INFO - Train test split initiated
+2026-05-16 02:33:11,646 - INFO - Ingestion of the data is completed
+2026-05-16 02:33:11,665 - INFO - Read train and test data completed
+2026-05-16 02:33:11,665 - INFO - Obtaining preprocessing object
+2026-05-16 02:33:11,665 - INFO - Categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+2026-05-16 02:33:11,665 - INFO - Numerical columns: ['reading_score', 'writing_score']
+2026-05-16 02:33:11,667 - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2026-05-16 02:33:11,683 - INFO - Saved preprocessing object.
